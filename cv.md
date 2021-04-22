@@ -5,7 +5,7 @@ phone number: +998901780816
 
 3) I like to study a lot/ Everyday i want to learn something new. With this course i want to build apps, which, i think, help to people
 
-4) I know some programming languages a little bit : Python, C++, C, Pascal, Html, Css, JS. Now i am learning some frameworks on python for machine learning
+4)  I know some programming languages a little bit : Python, C++, C, Pascal, Html, Css, JS. Now i am learning some frameworks on python for machine learning
 
 5) import pyshorteners
 

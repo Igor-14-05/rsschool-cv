@@ -1,4 +1,4 @@
-1) *Dolenko Igor*
+1) **Dolenko Igor**
 <hr>
 
 2) telegram: *wolf1405* phone number: *+998901780816*
